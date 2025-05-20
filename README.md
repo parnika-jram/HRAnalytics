@@ -3,7 +3,7 @@
 This project analyzes the **IBM HR Analytics Employee Attrition & Performance** dataset to identify key factors driving employee attrition and to build predictive models.
 
 ## 📁 Dataset
-- **Source:** IBM Watson
+- **Source:** IBM Watson's Dataset available on Kaggle: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 - **Records:** 1,470 employees
 - **Features:** 35 columns (e.g., Age, Department, JobSatisfaction, Attrition, etc.)
 
